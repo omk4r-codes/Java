@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Pro22_Arrays {
+public class Prog22_Arrays {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         // syntax:
